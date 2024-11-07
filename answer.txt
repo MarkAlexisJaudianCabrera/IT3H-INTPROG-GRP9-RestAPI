@@ -1,0 +1,18 @@
+Name: Mark Alexis Jaudian Cabrera
+Section: BSIT-IT3H-IRREGULAR
+
+Based on my understanding that the rest api which we can use to interact within a database but it also has a set of rules 
+for the development of webservices that we can do. As on the article that I read about Rest APIs that in can call data 
+that we can access and manipulate the data also that pertains into my understanding that the Rest API is usually used in 
+JSON to format the data that is sent and received to the server and we can mostly also see it in some forms in websites. 
+Relating into a JSON it is just a simple data format that is used in the universal language for computers, it is also a 
+type of structure data that can be read by a human being and machine languages ​​especially computers. Mostly in the simple 
+placement of curly braces on objects or square brackets on the arrays are one of the use of JSON. In my understanding 
+of an http post which is similar to on a writing a letter and sending it to a server in which let's also say that we want to 
+send data to a server, we can use the post methods where the all the data that can come from the submitted form and process 
+all of this data that can store, update, perform, or what action can we do towards the database. When i tried the given link 
+on GCR I tried the social media platform which is the facebook.com and press the send button after pressing the send button 
+I saw that the contents, headers, and the raw materials that are used in a html format was shown because of the API tool 
+since the security of the social media platforms especially for the facebook was very highly secured the html format that 
+are returned shows some errors which I also understand because it is normal to have these errors due to highly secured 
+websites or platforms.
