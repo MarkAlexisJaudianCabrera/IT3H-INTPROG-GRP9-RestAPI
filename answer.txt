@@ -1,5 +1,6 @@
 Name: Mark Alexis Jaudian Cabrera
 Section: BSIT-IT3H-IRREGULAR
+GROUP: 9 
 
 Based on my understanding that the rest api which we can use to interact within a database but it also has a set of rules 
 for the development of webservices that we can do. As on the article that I read about Rest APIs that in can call data 
